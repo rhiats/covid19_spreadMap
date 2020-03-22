@@ -24,5 +24,5 @@ print(total_cases)
 #Mark the total cases with a red dot on the map - show most recent date
 
 #Determine the next country -- excel sheet of all possible countries and check if that country appears
-#in the excel sheet. (pattern comes from all possible exel sheet) 
+#in the excel sheet. (pattern comes from all possible exel sheet)  - need the coordinate of the country.
 
